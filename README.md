@@ -4,6 +4,9 @@
 
 App web para gestionar contactos personales desarrollada con Vue 3 y Bootstrap 5.
 
+Mi nombre es: Wilmer Froilan Villca Mamani
+** CI: 6196097 **
+
 ## Instalación Rápida
 
 ### Paso 1. Clonar el repositorio
