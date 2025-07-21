@@ -492,9 +492,7 @@ export default {
 </script>
 
 <style scoped>
-
 #app {
   padding: 24px;
 }
-
 </style>
