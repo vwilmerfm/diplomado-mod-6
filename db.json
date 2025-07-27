@@ -1,0 +1,86 @@
+{
+  "categorias": [
+    {
+      "id": "1",
+      "nombre": "Ficción",
+      "descripcion": "Novelas y cuentos de ficción literaria"
+    },
+    {
+      "id": "2",
+      "nombre": "Ciencia y Tecnología",
+      "descripcion": "Libros sobre avances científicos y tecnológicos"
+    },
+    {
+      "id": "3",
+      "nombre": "Historia",
+      "descripcion": "Libros de historia universal y regional"
+    },
+    {
+      "id": "4",
+      "nombre": "Programación",
+      "descripcion": "Manuales y guías de programación"
+    },
+    {
+      "id": "5",
+      "nombre": "Filosofía",
+      "descripcion": "Obras filosóficas clásicas y contemporáneas"
+    },
+    {
+      "id": "89bc",
+      "nombre": "sadasd",
+      "descripcion": "adasd"
+    }
+  ],
+  "libros": [
+    {
+      "id": "1",
+      "titulo": "Cien años de soledad",
+      "autor": "Gabriel García Márquez",
+      "isbn": "978-0307474728",
+      "anio": 1967,
+      "descripcion": "Una obra maestra del realismo mágico",
+      "categoriaId": 1,
+      "disponible": true
+    },
+    {
+      "id": "2",
+      "titulo": "Clean Code",
+      "autor": "Robert C. Martin",
+      "isbn": "978-0132350884",
+      "anio": 2008,
+      "descripcion": "Manual de buenas prácticas en programación",
+      "categoriaId": 4,
+      "disponible": true
+    },
+    {
+      "id": "3",
+      "titulo": "Sapiens",
+      "autor": "Yuval Noah Harari",
+      "isbn": "978-0062316097",
+      "anio": 2014,
+      "descripcion": "Breve historia de la humanidad",
+      "categoriaId": 3,
+      "disponible": false
+    },
+    {
+      "id": "4",
+      "titulo": "El nombre del viento",
+      "autor": "Patrick Rothfuss",
+      "isbn": "978-0756404079",
+      "anio": 2007,
+      "descripcion": "Primera parte de la Crónica del Asesino de Reyes",
+      "categoriaId": 1,
+      "disponible": true
+    },
+    {
+      "id": "5",
+      "titulo": "Vue.js in Action",
+      "autor": "Erik Hanchett",
+      "isbn": "978-1617294624",
+      "anio": 2018,
+      "descripcion": "Guía completa para desarrollar con Vue.js",
+      "categoriaId": 4,
+      "disponible": true
+    }
+  ]
+}
